@@ -1,0 +1,36 @@
+{
+  "name": "@minecraft-core-master/loaders",
+  "version": "1.0.0",
+  "description": "Modular installer system for Minecraft loaders: Forge, Fabric, LegacyFabric, Quilt, OptiFine, and more. Designed for custom launchers and automation tools.",
+  "main": "components/index.js",
+  "scripts": {
+    "test": "echo \"No test yet, add yours in the future.\""
+  },
+  "keywords": [
+    "minecraft",
+    "minecraft-launcher",
+    "minecraft-core-master",
+    "minecraft-loader",
+    "forge",
+    "fabric",
+    "legacyfabric",
+    "quilt",
+    "optifine",
+    "nodejs",
+    "installer",
+    "mod-loader",
+    "@xmcl/installer",
+    "nova-step",
+    "novastepstudios"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/novastepstudios/minecraft-core-master-loaders"
+  },
+  "homepage": "https://github.com/novastepstudios/minecraft-core-master-loaders#readme",
+  "author": "NovaStepStudios",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  }
+}
